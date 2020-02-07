@@ -129,7 +129,7 @@
   </macro>
   <macro name="location">
     <choose>
-      <if match="any" variable="DOI URL">
+      <if match="any" variable="URL">
         <choose>
           <if type="article-newspaper" match="any">
             <text term="online" text-case="capitalize-first" prefix="[" suffix="]. "/>
@@ -148,14 +148,7 @@
             <text term="available at" text-case="capitalize-first" suffix=": "/>
           </else>
         </choose>
-        <choose>
-          <if variable="DOI">
-            <text variable="DOI" prefix="doi:"/>
-          </if>
-          <else-if variable="URL">
-            <text variable="URL"/>
-          </else-if>
-        </choose>
+        <text variable="URL"/>
       </if>
     </choose>
   </macro>
