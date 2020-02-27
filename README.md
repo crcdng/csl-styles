@@ -16,7 +16,7 @@ I imagine the inaugural meeting of every single academic publisher, conference o
 \- "Let's make a new one, then!"    
 [roaring applause]
 
-The citation manager that I use (https://www.zotero.org/) comes with 9672 styles. I don't really have an explanation for this. Each of the publications. Therefore I decided to write them myself and to provide them here. They are written in CSL (citation style language) and they are supposed to work with various citation software. Please check your documentation on how to use them with your style manager. More information is at https://citationstyles.org/.
+The citation manager that I use (https://www.zotero.org/) comes with 9672 styles. I don't really have an explanation for this., neither for the fact that none of the publications I ever had the honor to publish in is included. Therefore I decided to write them myself and to provide them here. They are written in CSL (citation style language) and they are supposed to work with various citation software. Please check your documentation on how to use them with your style manager. More information is at https://citationstyles.org/.
 
 ## styles 
 
